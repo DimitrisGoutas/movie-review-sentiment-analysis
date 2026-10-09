@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+contractions
+tqdm
+ipywidgets
+scipy
+scikit-learn
+torch
+transformers
+jupyter
