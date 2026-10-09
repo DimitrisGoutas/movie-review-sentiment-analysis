@@ -1,0 +1,11 @@
+# dataset (download from Kaggle, see README)
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
